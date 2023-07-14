@@ -1,0 +1,23 @@
+C:\Users\hp\source\repos\Qr code\Qr code\bin\Debug\Qr code.exe.config
+C:\Users\hp\source\repos\Qr code\Qr code\bin\Debug\Qr code.exe
+C:\Users\hp\source\repos\Qr code\Qr code\bin\Debug\Qr code.pdb
+C:\Users\hp\source\repos\Qr code\Qr code\bin\Debug\QRCoder.dll
+C:\Users\hp\source\repos\Qr code\Qr code\obj\Debug\Qr code.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Qr code\Qr code\obj\Debug\Qr_code.Form1.resources
+C:\Users\hp\source\repos\Qr code\Qr code\obj\Debug\Qr_code.Properties.Resources.resources
+C:\Users\hp\source\repos\Qr code\Qr code\obj\Debug\Qr code.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Qr code\Qr code\obj\Debug\Qr code.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Qr code\Qr code\obj\Debug\Qr code.csproj.CopyComplete
+C:\Users\hp\source\repos\Qr code\Qr code\obj\Debug\Qr code.exe
+C:\Users\hp\source\repos\Qr code\Qr code\obj\Debug\Qr code.pdb
+D:\Ahmed\programming\C#\Qr code\Qr code\bin\Debug\Qr code.exe.config
+D:\Ahmed\programming\C#\Qr code\Qr code\bin\Debug\Qr code.exe
+D:\Ahmed\programming\C#\Qr code\Qr code\bin\Debug\Qr code.pdb
+D:\Ahmed\programming\C#\Qr code\Qr code\bin\Debug\QRCoder.dll
+D:\Ahmed\programming\C#\Qr code\Qr code\obj\Debug\Qr code.csproj.AssemblyReference.cache
+D:\Ahmed\programming\C#\Qr code\Qr code\obj\Debug\Qr_code.Form1.resources
+D:\Ahmed\programming\C#\Qr code\Qr code\obj\Debug\Qr_code.Properties.Resources.resources
+D:\Ahmed\programming\C#\Qr code\Qr code\obj\Debug\Qr code.csproj.GenerateResource.cache
+D:\Ahmed\programming\C#\Qr code\Qr code\obj\Debug\Qr code.csproj.CoreCompileInputs.cache
+D:\Ahmed\programming\C#\Qr code\Qr code\obj\Debug\Qr code.exe
+D:\Ahmed\programming\C#\Qr code\Qr code\obj\Debug\Qr code.pdb
