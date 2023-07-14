@@ -5,7 +5,7 @@ This project. Every part of this project is sample code which encrypts the text 
 - the users will enter the text
 - press generate
 - the program will generate a QR screen contains the text that the user enters
-- 
+
 ## Watch the screenshots!
 ![Qr_code](https://github.com/ahmed8mansour/QR-code/assets/108304589/2c9b017b-8678-417b-a85c-5d24161a0ce4)
 
